@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
+    "fs": "*",
     "generate-unique-id": "^2.0.1",
     "path": "^0.12.7",
     "uuid": "^9.0.0"
