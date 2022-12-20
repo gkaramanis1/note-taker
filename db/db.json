@@ -12,5 +12,10 @@
         "title": "another",
         "text": "one",
         "note_id": "ee4e1ad7-e38b-4cc2-8cc1-e40197bef89b"
+    },
+    {
+        "title": "note 2",
+        "text": "this is a note",
+        "note_id": "764793b7-ed52-4603-8525-43c83e84de9b"
     }
 ]
