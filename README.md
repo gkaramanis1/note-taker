@@ -7,7 +7,7 @@
   - [Questions](#questions)
 
 ## Description
-This application was created using express.js and is used for note taking. 
+This application was created using express.js and is used for note taking. When writing and adding a note, each one will be given a unique id when it is saved in the db.json file. 
 
 ## Installation
 Need to install express.js and path module. 
